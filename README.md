@@ -10,8 +10,9 @@
 **computer science students**
 ### bold + italic
 ***new***<br/>
-#link readme file<br/>
+# link readme file<br/>
 [click Me](https://www.aec.edu.in/)
+![hruthik](hruthik.jpg)
 |SERIAL NO|NAME|BRANCH|ROLLNUMBER|
 |---------|----|------|----------|
 |1|RAJA|CSE|007|
@@ -33,4 +34,14 @@
 - python
 - html
 - flutter
+## nested list
+1. bigchill
+2. fourarms
+3. fastrack
+4. echo-echo
+5. jetray
+6. waybig
+   1. lamborghani
+   2. ferari
+   3. roceroyals
 
