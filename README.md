@@ -19,18 +19,18 @@
 |3|BULL|CSE|003|
 # ordered list
 ## programming languages
-1.c
-2.c++
-3.java
-4.python
-5.ruby
-6.c#
-7.pearl
+1. c
+2. c++
+3. java
+4. python
+5. c#
+6. pearl
+7. ruby
 # unordered list
 ## scripting languages
--java script
--angular js
--python
--html
--flutter
+- java script
+- angular js
+- python
+- html
+- flutter
 
