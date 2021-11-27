@@ -17,4 +17,20 @@
 |1|RAJA|CSE|007|
 |2|PRADEEP|CSE|009|
 |3|BULL|CSE|003|
+# ordered list
+## programming languages
+1.c
+2.c++
+3.java
+4.python
+5.ruby
+6.c#
+7.pearl
+# unordered list
+## scripting languages
+-java script
+-angular js
+-python
+-html
+-flutter
 
